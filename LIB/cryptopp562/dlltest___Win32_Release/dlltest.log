@@ -1,0 +1,7 @@
+﻿  dlltest.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\dladb\Documents\Visual Studio 2015\Projects\BaramHack20161107\LIB\cryptopp562\.\dlltest___Win32_Release\dlltest.exe) does not match the Linker's OutputFile property value (C:\Users\dladb\Documents\Visual Studio 2015\Projects\BaramHack20161107\LIB\cryptopp562\DLL_Release\dlltest.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     .\dlltest___Win32_Release\dlltest.lib 라이브러리 및 .\dlltest___Win32_Release\dlltest.exp 개체를 생성하고 있습니다.
+  dlltest.vcxproj -> C:\Users\dladb\Documents\Visual Studio 2015\Projects\BaramHack20161107\LIB\cryptopp562\.\dlltest___Win32_Release\dlltest.exe
+  dlltest.vcxproj -> .\dlltest___Win32_Release\dlltest.pdb (Full PDB)

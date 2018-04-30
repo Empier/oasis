@@ -1,0 +1,34 @@
+﻿  adhoc.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  bench.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  bench2.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  datatest.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  dlltest.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  fipsalgt.cpp
+  regtest.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  test.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  validat1.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  validat2.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  validat3.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  코드를 생성하고 있습니다...
+  cryptest.vcxproj -> C:\Users\dladb\Documents\Visual Studio 2015\Projects\BaramHack20161107\LIB\cryptopp562\.\CTRelease\cryptest.exe
+  cryptest.vcxproj -> .\CTRelease\cryptest.pdb (Full PDB)

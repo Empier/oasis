@@ -1,0 +1,142 @@
+﻿  pch.cpp
+  algebra.cpp
+  algparam.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  asn.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  authenc.cpp
+  basecode.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  cbcmac.cpp
+  ccm.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  channels.cpp
+  cmac.cpp
+  cpu.cpp
+  cryptlib.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  des.cpp
+  dessp.cpp
+  dh.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  dsa.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  ec2n.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  eccrypto.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  ecp.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  emsa2.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  eprecomp.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  files.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  filters.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  fips140.cpp
+  fipstest.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  gcm.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  gf2n.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  gfpcrypt.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  hex.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  hmac.cpp
+  hrtimer.cpp
+  integer.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  misc.cpp
+  modes.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  mqueue.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  nbtheory.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  oaep.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  osrng.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  pkcspad.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  pssr.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  pubkey.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  queue.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  randpool.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  rdtables.cpp
+  rijndael.cpp
+  rng.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  rsa.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  rw.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  sha.cpp
+  sha3.cpp
+  simple.cpp
+  skipjack.cpp
+  strciphr.cpp
+  trdlocal.cpp
+trdlocal.cpp(38): warning C4297: 'CryptoPP::ThreadLocalStorage::~ThreadLocalStorage': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  trdlocal.cpp(38): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  코드를 생성하고 있습니다...
+  dll.cpp
+c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): warning C4297: 'CryptoPP::AlgorithmParametersBase::~AlgorithmParametersBase': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+  c:\users\dladb\documents\visual studio 2015\projects\baramhack20161107\lib\cryptopp562\algparam.h(277): note: 소멸자 또는 비할당자는 가능하면 암시적으로 throw되지 않는 예외 사양을 사용합니다.
+  iterhash.cpp
+  코드를 생성하고 있습니다...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(C:\Users\dladb\Documents\Visual Studio 2015\Projects\BaramHack20161107\LIB\cryptopp562\.\DLL_Release\cryptdll.dll) does not match the Linker's OutputFile property value (C:\Users\dladb\Documents\Visual Studio 2015\Projects\BaramHack20161107\LIB\cryptopp562\DLL_Release\cryptopp.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(cryptdll) does not match the Linker's OutputFile property value (cryptopp). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     .\DLL_Release\cryptopp.lib 라이브러리 및 .\DLL_Release\cryptopp.exp 개체를 생성하고 있습니다.
+  cryptdll.vcxproj -> C:\Users\dladb\Documents\Visual Studio 2015\Projects\BaramHack20161107\LIB\cryptopp562\.\DLL_Release\cryptdll.dll
+  cryptdll.vcxproj -> .\DLL_Release\cryptdll.pdb (Full PDB)
+  
+  std::exception caught: bad allocation
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(203,5): error MSB3073: "CTRelease\cryptest mac_dll C:\Users\dladb\Documents\Visual Studio 2015\Projects\BaramHack20161107\LIB\cryptopp562\.\DLL_Release\cryptdll.dll 
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(203,5): error MSB3073: echo mac done > .\DLL_Release\cryptopp.mac.done 
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(203,5): error MSB3073: :VCEnd" 명령이 종료되었습니다(코드: -2).
